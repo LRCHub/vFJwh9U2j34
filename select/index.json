@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "浪漫ticSTAR",
+  "base_artist": "TOSHIMITSU",
+  "createdAt": "2025-12-30T16:30:41.838498Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浪漫ticSTAR",
+      "artist": "TOSHIMITSU",
+      "has_synced": false,
+      "path": "select/pl_01_浪漫ticSTAR_TOSHIMITSU.txt"
+    }
+  ]
+}
